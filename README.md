@@ -36,4 +36,6 @@ Available Quiz Categories:
 Select category (0 to exit): 1
 ...
 
-4. Output : - 
+4. Output : -
+https://github.com/SriDevi1806/QuizMaster/blob/main/output.png
+

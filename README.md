@@ -37,4 +37,5 @@ Select category (0 to exit): 1
 ...
 
 4. Output : -
+output.png
 

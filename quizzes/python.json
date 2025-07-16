@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "text": "What is the output of 3 * 'hi'?",
+      "options": [
+        "'hihihi'",
+        "'hi3'",
+        "Error",
+        "'3hi'"
+      ],
+      "correct_index": 0
+    },
+    {
+      "text": "Which keyword is used for function in Python?",
+      "options": [
+        "func",
+        "define",
+        "def",
+        "function"
+      ],
+      "correct_index": 2
+    },
+    {
+      "text": "How do you create an empty list in Python?",
+      "options": [
+        "list()",
+        "[]",
+        "new list()",
+        "Both A and B"
+      ],
+      "correct_index": 3
+    },
+    {
+      "text": "What does the 'pass' statement do?",
+      "options": [
+        "Terminates the program",
+        "Skips current iteration in a loop",
+        "Acts as a null operation placeholder",
+        "Passes variables between functions"
+      ],
+      "correct_index": 2
+    },
+    {
+      "text": "Which is NOT a valid variable name?",
+      "options": [
+        "_my_var",
+        "myVar1",
+        "1st_variable",
+        "MY_CONSTANT"
+      ],
+      "correct_index": 2
+    }
+  ]
+}

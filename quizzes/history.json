@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "text": "In which year did World War II end?",
+      "options": [
+        "1945",
+        "1939",
+        "1941",
+        "1950"
+      ],
+      "correct_index": 0
+    },
+    {
+      "text": "Who was the first President of the United States?",
+      "options": [
+        "Thomas Jefferson",
+        "George Washington",
+        "Abraham Lincoln",
+        "John Adams"
+      ],
+      "correct_index": 1
+    },
+    {
+      "text": "The ancient Egyptian writing system is known as?",
+      "options": [
+        "Cuneiform",
+        "Hieroglyphics",
+        "Sanskrit",
+        "Latin"
+      ],
+      "correct_index": 1
+    },
+    {
+      "text": "Which empire was ruled by Genghis Khan?",
+      "options": [
+        "Roman Empire",
+        "Mongol Empire",
+        "Ottoman Empire",
+        "British Empire"
+      ],
+      "correct_index": 1
+    },
+    {
+      "text": "The French Revolution began in which year?",
+      "options": [
+        "1776",
+        "1789",
+        "1799",
+        "1812"
+      ],
+      "correct_index": 1
+    }
+  ]
+}

@@ -37,5 +37,4 @@ Select category (0 to exit): 1
 ...
 
 4. Output : -
-https://github.com/SriDevi1806/QuizMaster/blob/main/output.png
-
+<img width="1920" height="1080" alt="output" src="https://github.com/user-attachments/assets/dd7af728-e695-4738-b5eb-d1885ac6b8be" />

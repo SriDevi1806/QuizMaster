@@ -36,6 +36,7 @@ Available Quiz Categories:
 Select category (0 to exit): 1
 ...
 
-4. Output : -
-output.png
+4. 📸 Sample Output
+
+![Quiz Output](./quiz-output.png)
 

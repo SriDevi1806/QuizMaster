@@ -38,5 +38,5 @@ Select category (0 to exit): 1
 
 4. 📸 Sample Output
 
-![Quiz Output](https://github.com/SriDevi1806/QuizMaster/blob/main/output.png)
+![output.png](https://github.com/SriDevi1806/QuizMaster/blob/main/output.png)
 
